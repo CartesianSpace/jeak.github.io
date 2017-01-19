@@ -1,13 +1,13 @@
 # Site settings
-title: Jack Gallegos' Blog
+title: Jack Gallegos
 header-img: img/home-bg.jpg
 email: jgallegos@uberasch.com
-copyright_name: Your/Project/Corporate Name
+copyright_name: Jack Gallegos
 description: "Blog where I talk about things I am interested in"
 baseurl: ""
 url: "http://jeak.github.io"
 twitter_username: jacko622
-github_username:  deak
+github_username:  jeak
 facebook_username:  
 email_username:  jgallegos@uberasch.com
 
